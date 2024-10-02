@@ -1,0 +1,17 @@
+//funcao:2 params-> console.log(+)
+//funcao: 2 params -> console.log(-)
+
+function somar(n1,n2){
+    console.log(n1+n2)
+}
+
+
+function subtrair(n1,n2){
+console.log(n1-n2)
+}
+
+
+somar(200,5)
+subtrair(200,5)
+somar(40,20)
+subtrair(40,20)
